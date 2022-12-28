@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1672214116077
+Build-Jdk: 1.8.0_292
+Built-By: ur
+Bundle-Activator: com.URPlus.dashboardCom.impl.Activator
+Bundle-Category: URCap
+Bundle-ContactAddress: 123 URCap Street
+Bundle-Copyright: Copyright notice (C)
+Bundle-Description: This is a description of the URCap
+Bundle-LicenseType: License type
+Bundle-ManifestVersion: 2
+Bundle-Name: dashboardCom
+Bundle-SymbolicName: com.URPlus.dashboardCom
+Bundle-Vendor: URCaps R us Inc.
+Bundle-Version: 1.0.2
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.ur.urcap.api.contribution;version="[1.9,2)",com.ur.u
+ rcap.api.contribution.installation;version="[1.8,2)",com.ur.urcap.api.c
+ ontribution.installation.swing;version="[1.8,2)",com.ur.urcap.api.domai
+ n;version="[1.10,2)",com.ur.urcap.api.domain.data;version="[1.10,2)",co
+ m.ur.urcap.api.domain.script;version="[1.8,2)",com.ur.urcap.api.domain.
+ userinteraction;version="[1.9,2)",com.ur.urcap.api.domain.userinteracti
+ on.keyboard;version="[1.8,2)",javax.swing,javax.swing.border,org.osgi.f
+ ramework;version="[1.6,2)"
+Tool: Bnd-2.1.0.20130426-122213
+URCapCompatibility-CB3: true
+URCapCompatibility-eSeries: true
